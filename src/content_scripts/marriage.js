@@ -1,13 +1,10 @@
 const info = {
   male: {
     firstPageInfo: {
-      city: { value: '440300000000', editor: '#area_citynan' },
-      area: { value: '440305000000', editor: '#area_countynan' },
-      street: { value: '440305002000', editor: '#area_townnan', },
-      address: { value: '广东省深圳市南山区XXX', editor: '#fjdnan' },
-      liveCity: { value: '440300000000', editor: '#jzd_citynan', },
-      liveArea: { value: '440304000000', editor: '#jzd_countynan' },
-      liveStreet: { value: '440304010000', editor: '#jzd_townnan', },
+      city: { value: '440200000000', editor: '#area_citynan' },
+      area: { value: '440282000000', editor: '#area_countynan' },
+      street: { value: '440282002000', editor: '#area_townnan', },
+      address: { value: '广东省南雄市雄州街道陵园路999', editor: '#fjdnan' },
     },
 
     secondPageInfo: {
@@ -25,9 +22,6 @@ const info = {
       area: { value: '440304000000', editor: '#area_countynv' },
       street: { value: '440304011000', editor: '#area_townnv', },
       address: { value: '广东省深圳市福田区XXX', editor: '#fjdnv' },
-      liveCity: { value: '440300000000', editor: '#jzd_citynv', },
-      liveArea: { value: '440304000000', editor: '#jzd_countynv' },
-      liveStreet: { value: '440304010000', editor: '#jzd_townnv', },
     },
 
     secondPageInfo: {
